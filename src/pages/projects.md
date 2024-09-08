@@ -7,6 +7,6 @@ metaDescription: A sample Projects page
 subtitle: This is the page where all projects will live
 emoji: 💻
 eleventyNavigation:
-  key: Projects
+  key: Projetos
   order: 3
 ---

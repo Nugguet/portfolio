@@ -9,7 +9,7 @@ metaDescription: This is a sample meta description. If one is not present in
   instead.
 subtitle: Contact Subtitle
 eleventyNavigation:
-  key: Contact
+  key: Contato
   order: 4
 ---
 
