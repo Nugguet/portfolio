@@ -8,7 +8,7 @@ section: home
   {# Hero #}
   <div class="hero">
     <div class="hero__col">
-      <h1 class="hero__title gradient-text">{{ home.title }}</h1>
+      <h1 class="hero__title default_theme">{{ home.title }}</h1>
       {% if home.body %}
         <div class="hero__body">{{ home.body | markdown | safe }}</div>
       {% endif %}

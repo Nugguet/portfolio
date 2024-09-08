@@ -8,7 +8,7 @@ import Contact from '/admin/preview-templates/contact.js';
 
 // Register preview templates
 CMS.registerPreviewTemplate('home', Home);
-CMS.registerPreviewTemplate('about', About);
+CMS.registerPreviewTemplate('Sobre', About);
 CMS.registerPreviewTemplate('blog', Blog);
 CMS.registerPreviewTemplate('article', Article);
 CMS.registerPreviewTemplate('projects', Projects);
