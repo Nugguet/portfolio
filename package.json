@@ -1,5 +1,5 @@
 {
-  "name": "fernfolio-11ty-template",
+  "name": "eduardo-11ty-template",
   "version": "1.0.0",
   "description": "The super simple portfolio template built with Eleventy and Netlify CMS",
   "scripts": {
@@ -14,20 +14,7 @@
     "postbuild": "postcss _site/assets/css/*.css -u autoprefixer cssnano -r --no-map",
     "clean": "rimraf './_site'"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/tylerMRoderick/fernfolio-11ty-template"
-  },
-  "author": {
-    "name": "Tyler M. Roderick",
-    "email": "troderick@protonmail.com",
-    "url": "https://www.tylerroderick.com/"
-  },
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/tylerMRoderick/fernfolio-11ty-template/issues"
-  },
-  "homepage": "https://github.com/tylerMRoderick/fernfolio-11ty-template",
+  "homepage": "https://eduardooliveira.dev",
   "devDependencies": {
     "@11ty/eleventy": "^2.0.1",
     "@11ty/eleventy-img": "^2.0.1",
