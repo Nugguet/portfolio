@@ -1,31 +1,45 @@
 ---
-title: About Me
+title: Sobre mim
 subtitle: ""
-metaDescription: This page is all about me
-date: 2017-01-01T00:00:00.000Z
+metaDescription: Esta página é toda sobre mim
+date: 2024-08-29
 permalink: /about/index.html
 eleventyNavigation:
   key: Sobre
   order: 1
 ---
 
-### What is Fernfolio?
-An [Eleventy](https://www.11ty.io/) theme designed to simplify the process of creating a beautiful portfolio and blog. Tightly integrated with [Netlify CMS](https://www.netlifycms.org/) for flexible, Git-powered content management.
+# Olá!
 
-### Why create this?
+Sou **Eduardo Oliveira**, um programador apaixonado e curioso com 3 anos de experiência.
 
-**Reason #1:** I wanted a portfolio that was simple, fast, accessible, and integrated with a git-powered cms. Existing templates didn't perfectly fit my needs, so I decided to build my own template.
+Ao longo da minha carreira, explorei diversas áreas da programação, incluindo **Desenvolvimento Mobile**, **Backend**, **Frontend** e **Análise de Dados**. Encontrei minha verdadeira paixão no desenvolvimento **Frontend**, especialmente com **AngularJS**, onde mergulhei de cabeça.
 
-**Reason #2:** I wanted to learn more about [Eleventy](https://www.11ty.dev/) and static site generators in general. Building Fernfolio was a good excuse to dive deeper on that topic.
+Meu objetivo é criar aplicações modernas, escaláveis, robustas e testáveis.
 
-### How do I edit content?
-Once your site is deployed and configured, add `/admin` to the end of the url (not using localhost) and hit refresh. From there, you should be able to login and see see the content management dashboard. You should be able to change most content here (e.g. page text, images, logo, articles, projects, etc.).
+No meu tempo livre, gosto de jogar com minha esposa e amigos, assistir a seriados e filmes, e tocar violão.
 
-### Further customizations
-If you want to take your customizations further, you will need to modify the project source code. Some customizations, like changing theme colors and fonts, are straightforward (those can be modified in the `variables.scss` file). Other customizations will require more in-depth solutions.
+## Ferramentas que utilizo:
+- Postman
+- Insomnia
+- DBeaver
+- PowerBI
 
-If you get stuck or just have a question, feel free to create a [Github issue](https://github.com/TylerMRoderick/fernfolio-11ty-template/issues) and I will try to point you in the right direction.
+## Linguagens que utilizo:
+- JavaScript
+- TypeScript
+- Kotlin
+- Java
+- Flutter
 
-Thanks for checking out Fernfolio 👋 - [Tyler M. Roderick](https://www.tylerroderick.com/)
+## Outras ferramentas:
+- Git
+- Maven
+- NPM
+- Spring
+- Quarkus
+- Postgres
 
-![Fern in Hand](/src/assets/img/fern-forest.jpeg "Fern in Hand")
+## Metodologias:
+- Scrum
+- Kanban

@@ -1,6 +1,19 @@
+---
+title: Portfólio
+emoji: 🗓
+metaDescription: Eduardo — Um modelo de portfólio 11ty
+date: 2024-08-29
+summary: Meu modelo de portfólio 11ty
+tags:
+  - Js
+  - Scss
+  - Nun
+  - Html
+---
+
 # Eduardo — Um modelo de portfólio 11ty
 
-### <pre>🖥 [Demo](https://eduardooliveira.dev/)</pre>
+### <pre>🖥 [Repositorio](https://github.com/Nugguet/portfolio)</pre>
 
 ## 🤔 O que é isso?
 Um tema [Eleventy](https://www.11ty.io/) projetado para simplificar o processo de criação de um lindo portfólio e blog. Totalmente integrado com [Vercel](https://vercel.com/) para gerenciamento de conteúdo flexível e com tecnologia Git.
