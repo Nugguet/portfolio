@@ -9,6 +9,6 @@ permalink: "blog{% if pagination.pageNumber > 0 %}/page/{{ pagination.pageNumber
 metaDescription: A sample Blog page listing various posts.
 subtitle: A collection of technical blog posts and random thoughts
 eleventyNavigation:
-  key: Blog
+  key: Artigos
   order: 2
 ---
