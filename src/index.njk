@@ -12,10 +12,14 @@ section: home
       {% if home.body %}
         <div class="hero__body">{{ home.body | markdown | safe }}
           <div class="site-header__icon-container">
-            <a class="site-header__icon" href="{{ 'https://github.com/Nugguet' }}" aria-label="GitHub">
+            <a class="site-header__icon" href="{{ 'https://www.linkedin.com/in/eduardofo/' }}" 
+            aria-label="GitHub" target="_blank" 
+            rel="noopener noreferrer">
               {{ home.linkdin | svg | safe }}
             </a>
-            <a class="site-header__icon" href="{{ 'https://github.com/Nugguet' }}" aria-label="GitHub">
+            <a class="site-header__icon" href="{{ 'https://github.com/Nugguet' }}" 
+            aria-label="GitHub" target="_blank" 
+            rel="noopener noreferrer">
               {{ home.github | svg | safe }}
             </a>
           </div>
