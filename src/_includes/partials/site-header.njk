@@ -17,6 +17,7 @@
     <nav class="site-header__nav">
       {% set navPages = collections.all | eleventyNavigation %}
       <ul class="site-header__items">
+
         {%- for entry in navPages %}
           <li class="site-header__item">
             <a
@@ -31,7 +32,10 @@
 
         {% if global.enable_theme_switch %}
           <li class="site-header__item">
-            <button class="site-header__link site-header__link--theme-switch" data-theme-switch>
+            <button class="site-header__link site-header__link--theme-switch" 
+        data-theme-switch 
+        aria-label="Alterar tema" 
+        title="Alterar tema">
               {{ global.switch_theme_icon | svg | safe }}
             </button>
           </li>
