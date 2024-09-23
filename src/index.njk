@@ -3,14 +3,24 @@ layout: base.njk
 section: home
 ---
 <div class="home-page">
-	<div class="home-page__bg-square"></div>
+  <div class="home-page__bg-square"></div>
 
   {# Hero #}
   <div class="hero">
     <div class="hero__col">
       <h1 class="hero__title default_theme">{{ home.title }}</h1>
       {% if home.body %}
-        <div class="hero__body">{{ home.body | markdown | safe }}</div>
+        <div class="hero__body">{{ home.body | markdown | safe }}
+          <div class="site-header__icon-container">
+            <a class="site-header__icon" href="{{ 'https://github.com/Nugguet' }}" aria-label="GitHub">
+              {{ home.linkdin | svg | safe }}
+            </a>
+            <a class="site-header__icon" href="{{ 'https://github.com/Nugguet' }}" aria-label="GitHub">
+              {{ home.github | svg | safe }}
+            </a>
+          </div>
+
+        </div>
       {% endif %}
     </div>
     <div class="hero__col">

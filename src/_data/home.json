@@ -1,6 +1,8 @@
 {
   "title": "Eduardo Oliveira",
+  "github":"src/assets/img/github.svg",
+  "linkdin":"src/assets/img/linkdin.svg",
   "image": "src/assets/img/perfil.png",
   "image_alt": "Eduardo Henrique",
-  "body": "Bem-vindo ao Meu Portfólio. Sou um programador apaixonado por criar soluções inovadoras e eficientes. Explore meu portfólio e descubra como posso ajudar a transformar suas ideias em realidade. [LinkedIn](https://www.linkedin.com/in/eduardofo) - [GitHub](https://github.com/Nugguet)"
+  "body": "Sou um programador apaixonado por criar soluções inovadoras e eficientes. Explore meu portfólio e descubra como posso ajudar a transformar suas ideias em realidade."
 }

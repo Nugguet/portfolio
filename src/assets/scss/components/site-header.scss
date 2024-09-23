@@ -67,6 +67,43 @@
   }
 }
 
+.site-header__icon-container {
+  margin: 0;
+  font-weight: 700;
+}
+
+.site-header__icon {
+  display: inline-block;
+  align-items: center;
+  justify-content: center;
+  width: 30px;
+  height: 30px;
+  padding: 6px 8px;
+  border-radius: var(--border-radius-sm);
+  color: var(--color-text);
+
+  @media (min-width: 1024px) {
+    width: 40px;
+    height: 40px;
+  }
+
+  &:hover {
+    border-bottom: none;
+    background-color: var(--color-bg-secondary);
+    color: var(--color-secondary);
+
+    :root[data-theme="dark"] & {
+      background-color: var(--color-bg-wrapper-bg-dark);
+      color: var(--color-title-dark);
+    }
+  }
+
+  :root[data-theme="dark"] & {
+    color: var(--color-title-dark);
+  }
+}
+
+
 .site-header__nav {
   display: none;
   width: 100%;
