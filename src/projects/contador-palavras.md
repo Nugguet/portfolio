@@ -1,6 +1,6 @@
 ---
 title: Contagem de Palavras
-emoji: 💾
+emoji: 🔢
 metaDescription: Este projeto Java permite ao usuário inserir um URL e uma frase, em seguida, faz uma requisição HTTP para a página indicada, analisa o conteúdo da página e conta quantas vezes a frase e cada palavra da frase aparecem no texto.
 date: 2024-08-29
 summary: Projeto Java que conta as ocorrências de uma frase e suas palavras em uma página web a partir de uma URL fornecida.

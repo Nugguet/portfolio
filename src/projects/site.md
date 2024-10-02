@@ -1,6 +1,6 @@
 ---
 title: Portfólio
-emoji: 🗓
+emoji: 📋
 metaDescription: Eduardo — Um modelo de portfólio 11ty
 date: 2024-08-29
 summary: Meu modelo de portfólio 11ty

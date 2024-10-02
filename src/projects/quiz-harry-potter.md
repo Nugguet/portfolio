@@ -1,6 +1,6 @@
 ---
 title: Quiz Básico Harry Potter
-emoji: 😺
+emoji: ⚯ ͛
 metaDescription: Este é um quiz básico sobre Harry Potter, implementado utilizando JavaScript. O quiz consiste em perguntas sobre o universo de Harry Potter, e os jogadores podem testar seu conhecimento respondendo às perguntas.
 date: 2024-08-29
 summary: Quiz básico de Harry Potter em JavaScript para testar conhecimentos sobre a série.
