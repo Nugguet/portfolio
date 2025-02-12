@@ -1,6 +1,6 @@
 # Eduardo — Um modelo de portfólio 11ty
 
-### <pre>🖥 [Demo](https://eduardooliveira.dev/)</pre>
+## <pre>🖥 [Demo](https://eduardooliveira.dev/)</pre>
 
 ## 🤔 O que é isso?
 Um tema [Eleventy](https://www.11ty.io/) projetado para simplificar o processo de criação de um lindo portfólio e blog. Totalmente integrado com [Vercel](https://vercel.com/) para gerenciamento de conteúdo flexível e com tecnologia Git.
